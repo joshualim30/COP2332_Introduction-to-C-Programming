@@ -2,7 +2,9 @@
 
 ## Class Information
 **Instructor:** Dr. Steinberg
+
 **University:** University of Central Florida
+
 **Semester Taken:** Fall 2022
  
 ## Folder Organization:
