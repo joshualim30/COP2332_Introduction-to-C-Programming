@@ -7,7 +7,7 @@
 
 **Semester Taken:** Fall 2022
  
-## Folder Organization:
+## Repository Navigation:
 Folders are separated into weeks in descending order from the beginning of the semester to the end, updated as projects are assigned and completed. Inside weekly folders may contain Large Program and Small Program folders, in which these subfolders were assignments assigned the same week but have different goals. My (Joshua Lim) work is always labeled "smallprogram#/largeprogram#_MyLastName_MyFirstname.c"_ per instructor request.
 
 _(Example: smallprogram0_Lim.Joshua.c)_
@@ -19,5 +19,4 @@ The purpose of this repository is to showcase assignments to employers that I (J
 
 ## Quetstions or Suggestions:
 If there are any questions or suggestions on the code or structure of this repository, feel free to email me at:
-
 joshualim@creatingreal.com
