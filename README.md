@@ -5,7 +5,7 @@
 
 **University:** University of Central Florida
 
-**Semester Taken:** Fall 2022
+**Semester Taken:** Fall 2022 (Present)
  
 ## Repository Navigation:
 Folders are separated into weeks in descending order from the beginning of the semester to the end, updated as projects are assigned and completed. Inside weekly folders may contain Large Program and Small Program folders, in which these subfolders were assignments assigned the same week but have different goals. My (Joshua Lim) work is always labeled "smallprogram#/largeprogram#_MyLastName_MyFirstname.c"_ per instructor request.
