@@ -1,4 +1,4 @@
-# COP2332_Intoduction to C Programming
+# COP2332 - Intoduction to C Programming
 
 ## Class Information
 **Instructor:** Dr. Steinberg
