@@ -1,0 +1,5 @@
+The current month is August.
+The current year is 2022.
+I am a student at the University of Central Florida.
+This Fall 2022, I am taking COP3223C Introduction to Programming with C with Dr. Steinberg.
+I am super excited to learn the C Language this semester!

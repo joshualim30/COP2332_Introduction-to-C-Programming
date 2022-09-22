@@ -1,0 +1,20 @@
+Enter a key from the keyboard: Lower!
+Hi! Thank you for calling the Superhuman Law Division at GLK&H!
+Our associates are currently working hard for super people like you.
+Please listen carefully to the options of who you would like to speak to in regards to your situation.
+Option 1: Fined for thousands of dollars worth of damage to the city you were trying to protect.
+Option 2: Accidentally create a sentient robot who got the feels and tried to destroy the world.
+Option 3: You are an Asgardian god who unintentionally leaves a giant burning imprint on private
+property every time you visit Earth.
+Option 4: You just gained new superhero strength that is not recognized by the department of
+damage control, and they are chasing you down after you performed a good deed.
+Option 5: Your secret identity was revealed by a notorious person and now your personal life
+is no longer the same.
+Option 6: Another super being issue that was not mentioned previously in the options given.
+Selection: You have selected option 4. Do not worry! We will talk to the department of damage control.
+Enter the x-coordinate: Enter the y-coordinate: (2.53, -4.29) is in quadrant IV.
+Enter three sides separated by a whitespace: Checking these logistics from the input.
+1 + 2 > 3
+1 + 3 > 2
+2 + 3 > 1
+Not Triangle!

@@ -1,0 +1,5 @@
+Enter the radius: Enter the height: The total surface area of the cone is 4432.16
+Welcome to the Parking Garage!
+How many hours will you keep your car parked here> Car will be parked for 5 hours and will be charged $21.05.
+Enter a year after 2016: Predicted Wakanda's population for 2022 (in thousands): 76.885
+Enter the value for n: 12! is approximately 478858054.1927

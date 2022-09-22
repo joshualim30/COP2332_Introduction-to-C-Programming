@@ -1,0 +1,12 @@
+VV          VV
+ VV        VV
+  VV      VV
+   VV    VV
+    VV  VV
+     VVVV
+      VV
+Mileage Reimbursement Calculator
+Enter beginning odometer reading=> Enter ending odometer reading=> You traveled 7.0 miles.
+At $2.61 per mile, your reimbursement is $18.27
+Enter the weight in pounds: Enter the total height in inches: BMI = 3.649
+Enter the radius: Enter the height: The volume of the cone is 78.5397
