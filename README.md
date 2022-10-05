@@ -1,10 +1,9 @@
 # COP2332 - Intoduction to C Programming
-# ["COP2332 - Intoduction to C Programming"](https://www.creatingreal.com)
 
 ## Class Information
 **Instructor:** Dr. Steinberg
 
-**University:** University of Central Florida
+**University:** ["University of Central Florida"](https://www.ucf.edu)
 
 **Semester Taken:** Fall 2022
  
