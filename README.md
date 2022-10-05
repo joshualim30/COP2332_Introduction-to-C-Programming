@@ -1,4 +1,5 @@
 # COP2332 - Intoduction to C Programming
+# ["COP2332 - Intoduction to C Programming"](https://www.creatingreal.com)
 
 ## Class Information
 **Instructor:** Dr. Steinberg
