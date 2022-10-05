@@ -3,7 +3,7 @@
 ## Class Information
 **Instructor:** Dr. Steinberg
 
-**University:** ["University of Central Florida"](https://www.ucf.edu)
+**University:** [University of Central Florida](https://www.ucf.edu)
 
 **Semester Taken:** Fall 2022
  
