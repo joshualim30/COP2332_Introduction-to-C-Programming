@@ -1,0 +1,11 @@
+Bob's Burgers Restaurant Receipt Order
+-----------------------
+2 Regular(s)
+3 Special(s)
+3 Cheese(s)
+4 Fries
+3 Salad(s)
+3 Soft Drink(s)
+-----------------------
+Total: $65.85
+Thank you and come again!
