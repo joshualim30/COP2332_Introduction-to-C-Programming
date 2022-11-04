@@ -10,7 +10,7 @@ void resterauntReceipt(); // professor spelled restaurant wrong? required to spe
 void gradeDistribution(); // read grades.txt and print out a grade distribution
 void incrementUpdate(int *val); // increment val by 1
 
-// not done
+// done
 int main(void) { // main function
 
     // Problem 1
