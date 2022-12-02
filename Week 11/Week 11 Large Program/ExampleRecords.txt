@@ -1,0 +1,44 @@
+Hogwarts School Student Records
+------------------------------------------
+ID:		 1
+First Name:	 Harry
+Last Name:	 Potter
+House:		 Gryffindor
+GPA:		 3.87
+------------------------------------------
+ID:		 2
+First Name:	 Ron
+Last Name:	 Wesley
+House:		 Gryffindor
+GPA:		 3.01
+------------------------------------------
+ID:		 3
+First Name:	 Hermonie
+Last Name:	 Granger
+House:		 Gryffindor
+GPA:		 4.00
+------------------------------------------
+ID:		 4
+First Name:	 Draco
+Last Name:	 Malfoy
+House:		 Slytherin
+GPA:		 2.57
+------------------------------------------
+ID:		 5
+First Name:	 Luna
+Last Name:	 Lovegood
+House:		 Ravenclaw
+GPA:		 3.42
+------------------------------------------
+ID:		 7
+First Name:	 Sheldon
+Last Name:	 Cooper
+House:		 Ravenclaw
+GPA:		 4.00
+------------------------------------------
+ID:		 7
+First Name:	 Andrew
+Last Name:	 Steinberg
+House:		 Gryffindor
+GPA:		 3.70
+------------------------------------------

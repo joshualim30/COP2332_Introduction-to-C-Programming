@@ -1,0 +1,9 @@
+ID  Name           Type       Quantity   Price     
+--  ----           ----       --------   -----     
+1   Krabby Patty   Sandwich   100        $1.99      
+2   Kelp Shake     Drink      50         $2.99      
+3   Kelp Rings     Appetizer  25         $1.49      
+4   Kelp Fries     Appetizer  25         $1.49      
+5   Kelp Soda      Drink      50         $1.99      
+6   Krabby Deluxe  Sandwich   100        $2.99      
+7   r              r          1          $2.00      
